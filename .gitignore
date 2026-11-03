@@ -1,0 +1,8 @@
+data/
+outputs/
+cache/
+__pycache__/
+*.pyc
+*.pt
+*.safetensors
+.DS_Store
